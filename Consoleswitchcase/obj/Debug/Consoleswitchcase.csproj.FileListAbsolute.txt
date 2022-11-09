@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\Consoleswitchcase\bin\Debug\Consoleswitchcase.exe.config
+C:\Users\admin\Documents\Consoleswitchcase\bin\Debug\Consoleswitchcase.exe
+C:\Users\admin\Documents\Consoleswitchcase\bin\Debug\Consoleswitchcase.pdb
+C:\Users\admin\Documents\Consoleswitchcase\obj\Debug\Consoleswitchcase.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Consoleswitchcase\obj\Debug\Consoleswitchcase.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Consoleswitchcase\obj\Debug\Consoleswitchcase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Consoleswitchcase\obj\Debug\Consoleswitchcase.exe
+C:\Users\admin\Documents\Consoleswitchcase\obj\Debug\Consoleswitchcase.pdb
