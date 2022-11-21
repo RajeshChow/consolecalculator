@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\admin\Documents\LinQ\bin\Debug\LinQ.exe
+C:\Users\admin\Documents\LinQ\bin\Debug\LinQ.pdb
+C:\Users\admin\Documents\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\LinQ\obj\Debug\LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\LinQ\obj\Debug\LinQ.exe
+C:\Users\admin\Documents\LinQ\obj\Debug\LinQ.pdb
